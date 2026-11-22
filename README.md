@@ -12,6 +12,11 @@ Mục tiêu là minh họa cách phối hợp cảm biến, bộ điều khiển
 
 ---
 
+## Poster dự án
+
+![Poster dự án](poster.png)
+
+Xem bản trình bày trực tuyến: [Poster trên claude.ai](https://claude.ai/artifact/AGUhnvzvmD1Dxkc1Rxxrob)
 ## Chức năng chính
 
 - Điều khiển xe tiến, lùi, quay trái, quay phải và dừng
