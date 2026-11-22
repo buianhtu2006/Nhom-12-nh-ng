@@ -1,9 +1,10 @@
 # IoT-trash-collector-boat
 
 Dự án **thuyền thu gom rác ứng dụng IoT** nhằm thu gom rác nổi trên mặt nước, có khả năng điều khiển từ xa, giám sát thời gian thực và đảm bảo an toàn khi vận hành.
-```[cite: 7]
+
 
 Sau khi dán xong, bấm **Commit changes...** (hoặc **Commit changes**) để lưu là hoàn tất.
+
 ## Tổng quan
 
 Dự án xây dựng một **xe chữa cháy mini thông minh** trên sa bàn, có khả năng di chuyển, phát hiện dấu hiệu lửa trong phạm vi thử nghiệm và điều khiển bơm nước mô phỏng. Hệ thống được thiết kế theo kiến trúc IoT gồm ba phần:
