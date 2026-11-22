@@ -20,8 +20,8 @@ Mục tiêu là minh họa cách phối hợp cảm biến, bộ điều khiển
 ---
 
 ## Poster dự án
+<img width="641" height="932" alt="image" src="https://github.com/user-attachments/assets/132f13cd-cabe-4c43-b307-c6a86355646a" />
 
-<img width="543" height="796" alt="image" src="https://github.com/user-attachments/assets/ad9429b1-86b4-4262-a778-2360f92c6924" />
 
 ## Chức năng chính
 
