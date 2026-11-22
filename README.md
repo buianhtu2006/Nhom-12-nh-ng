@@ -14,7 +14,8 @@ Mục tiêu là minh họa cách phối hợp cảm biến, bộ điều khiển
 
 ## Poster dự án
 
-![Poster dự án](đường_dẫn_hoặc_link_ảnh_trực_tiếp)
+<img width="543" height="796" alt="image" src="https://github.com/user-attachments/assets/ad9429b1-86b4-4262-a778-2360f92c6924" />
+
 ## Chức năng chính
 
 - Điều khiển xe tiến, lùi, quay trái, quay phải và dừng
